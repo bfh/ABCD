@@ -8,8 +8,8 @@ Die Zeit zu welcher das Backup gemacht werden soll, kann so eingestellt werden u
 
 
 ## Team:
-Derki Juan
-Grädel Niklaus
+Derki Juan,
+Grädel Niklaus,
 Zhegrova Ardit
 
 Wir sind angehende Informatik-/Medizininformatikstudenten an der BFH und absolvieren gemeinsam die Informatik Passerelle.
